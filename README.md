@@ -10,6 +10,6 @@ EternalKash Tiktok Checker, This Python program checks for 4L/4C TikTok Username
 6. Imput your webhook url and enjoy!
 
 # TUMBADOWARE
-Discord: Chief Keef#8882
-Twitter: fw_eternal
-INSTAGRAM: tumbadoware
+Discord: Chief Keef#8882 <br>
+Twitter: fw_eternal <br>
+INSTAGRAM: tumbadoware <br>
